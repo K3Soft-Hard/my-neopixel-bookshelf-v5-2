@@ -1,5 +1,8 @@
 
-> Open this page at [https://k3soft-hard.github.io/my-neopixel-bookshelf-v5-2/](https://k3soft-hard.github.io/my-neopixel-bookshelf-v5-2/)
+## Project
+
+This extension has worse effects.
+Better effects are used in this project https://github.com/K3Soft-Hard/neopixel-project-v104-forever-build-2.
 
 ## Use as Extension
 
