@@ -1,7 +1,7 @@
 
 ## Project
 
-This extension has worse effects compared to the project.
+This expansion has worse effects compared to the project, but they are also good.
 Better effects are used in this project https://github.com/K3Soft-Hard/neopixel-project-v104-forever-build-2.
 
 ## Use as Extension
